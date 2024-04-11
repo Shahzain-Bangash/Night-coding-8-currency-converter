@@ -4,8 +4,7 @@ import inquirer from "inquirer";
 // import Choices from "inquirer/lib/objects/choices.js";
 
 // let obj:any = {
-//     name:"Shahzain Ali",
-//     age:21,
+//     name:"Shahzain Ali Bangash",
 //     rollno:111,
 //     address:"Karachi"
 // }
